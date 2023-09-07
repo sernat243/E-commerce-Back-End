@@ -63,6 +63,8 @@ As a manager at an internet retail company, you want a back end for your e-comme
    - GET routes are available for categories, products, and tags, and they return data in formatted JSON.
    - POST, PUT, and DELETE routes can be used to create, update, and delete data in the database.
 
+4. [Click Here](https://watch.screencastify.com/v/veXFPySQUgPjUQ8Yic27) to see a walkthrough video.
+
 ## Questions
 
 If you have any questions or need further assistance, please feel free to [contact me](mailto:gs.devprog@gmail.com).
